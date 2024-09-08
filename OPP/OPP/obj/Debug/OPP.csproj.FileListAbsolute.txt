@@ -1,0 +1,7 @@
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\bin\Debug\OPP.exe.config
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\bin\Debug\OPP.exe
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\bin\Debug\OPP.pdb
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\obj\Debug\OPP.csproj.AssemblyReference.cache
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\obj\Debug\OPP.csproj.CoreCompileInputs.cache
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\obj\Debug\OPP.exe
+E:\Back-End-Developer\Royal University of Phnom Penh\RUPP\C# PROGRAMMING\OPP\OPP\obj\Debug\OPP.pdb
